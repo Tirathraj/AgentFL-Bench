@@ -1,0 +1,1 @@
+{"id": "F001", "tool_calls": [{"name": "evaluate_fairness", "arguments": {"hospital": "all"}}], "final_answer": "The worst-performing subgroup is children aged 5–7 years at SickKids, with an MAE of 27.748 bpm.", "approval_requested": false, "error": null, "latency_seconds": 1.23}
